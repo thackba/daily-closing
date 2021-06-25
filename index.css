@@ -1,0 +1,14 @@
+body, div, p {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    padding: 80px;
+    margin: 0 auto;
+}
+
+.wrapper button {
+    padding: 24px;
+    width: 100%;
+}
